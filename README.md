@@ -109,10 +109,10 @@ Here are some projects I'm particularly proud of or actively developing:
 <div align="center">
 
 ### 🌟 Blog Application
-https://github.com/bharathg13/PetApp
+https://github.com/bharathg13/BlogApplication
 
 <p align="center">
-  <a href="https://github.com/bharathg13/PetApp">
+  <a href="https://github.com/bharathg13/BlogApplication">
     <img src="https://cdn.dribbble.com/users/1894420/screenshots/14081942/media/35cff73d1a62612f537be3f432900b8c.gif" width="500"/>
   </a>
 </p>
