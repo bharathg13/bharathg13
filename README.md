@@ -108,6 +108,21 @@ Here are some projects I'm particularly proud of or actively developing:
 
 <div align="center">
 
+### 🌟 Hospital Management System
+https://github.com/bharathg13/HospitalManagementSystem
+
+<p align="center">
+  <a href="https://github.com/bharathg13/HospitalManagementSystem">
+    <img src="https://healthtechghana.com/wp-content/uploads/2024/05/Best-FreeOpen-Source-Hospital-Management-System-01.png" width="500"/>
+  </a>
+</p>
+
+
+**Tech Stack:** Java 17 • Spring Boot • Spring Security • JWT • MySQL • Swagger
+**Status:** 🚧 Under Development
+*Brief description: A backend-focused Hospital Management System exposing secure RESTful APIs for managing patients, doctors, appointments, and medical records. Implements JWT-based authentication, role-based access control (ADMIN, DOCTOR, PATIENT), and Swagger for API documentation.*
+
+---
 ### 🌟 Blog Application
 https://github.com/bharathg13/BlogApplication
 
